@@ -1,0 +1,11 @@
+/home/gil/Documentos/Proyectos/ExamenNET/bin/Debug/netcoreapp2.2/ExamenNET.deps.json
+/home/gil/Documentos/Proyectos/ExamenNET/bin/Debug/netcoreapp2.2/ExamenNET.runtimeconfig.json
+/home/gil/Documentos/Proyectos/ExamenNET/bin/Debug/netcoreapp2.2/ExamenNET.runtimeconfig.dev.json
+/home/gil/Documentos/Proyectos/ExamenNET/bin/Debug/netcoreapp2.2/ExamenNET.dll
+/home/gil/Documentos/Proyectos/ExamenNET/bin/Debug/netcoreapp2.2/ExamenNET.pdb
+/home/gil/Documentos/Proyectos/ExamenNET/obj/Debug/netcoreapp2.2/ExamenNET.csprojAssemblyReference.cache
+/home/gil/Documentos/Proyectos/ExamenNET/obj/Debug/netcoreapp2.2/ExamenNET.csproj.CoreCompileInputs.cache
+/home/gil/Documentos/Proyectos/ExamenNET/obj/Debug/netcoreapp2.2/ExamenNET.AssemblyInfoInputs.cache
+/home/gil/Documentos/Proyectos/ExamenNET/obj/Debug/netcoreapp2.2/ExamenNET.AssemblyInfo.cs
+/home/gil/Documentos/Proyectos/ExamenNET/obj/Debug/netcoreapp2.2/ExamenNET.dll
+/home/gil/Documentos/Proyectos/ExamenNET/obj/Debug/netcoreapp2.2/ExamenNET.pdb
